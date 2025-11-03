@@ -76,4 +76,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm *Abdullah wael **,  I’m cs student and interests in data engineering 
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
