@@ -1,0 +1,21 @@
+/*
+---------------------------------------------------------
+1-CREATE database called datawarehouse
+2-Create schema for bronze layer 
+3-Create schema for silver layer 
+4-Create schema for gold layer 
+----------------------------------------------------------
+
+*/
+
+CREATE DATABASE datawarehouse ;
+/*
+after creating database 
+connecting to datawarehouse database 
+and do  .....
+*/
+CREATE SCHEMA bronze ;
+CREATE SCHEMA silver ;
+CREATE SCHEMA gold  ;
+
+
